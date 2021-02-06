@@ -2,22 +2,6 @@
   {
     "message": {
       "person": {
-        "name": "Nicolas Tesla",
-        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
-        "last_seen": "1 saat önce aktifti.",
-        "last_seen_time": "05:52 PM"
-      },
-      "body": {
-        "isSended": true,
-        "isRead": false,
-        "text": "text"
-      },
-      "isSenderSilenced": true
-    }
-  },
-  {
-    "message": {
-      "person": {
         "name": "Steve Jobs",
         "picture_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
         "last_seen": "1 saat önce aktifti.",
@@ -29,6 +13,22 @@
         "text": "Selam Bill Nasılsın?"
       },
       "isSenderSilenced": false
+    }
+  },
+  {
+    "message": {
+      "person": {
+        "name": "Nicolas Tesla",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+        "last_seen": "1 saat önce aktifti.",
+        "last_seen_time": "05:52 PM"
+      },
+      "body": {
+        "isSended": true,
+        "isRead": false,
+        "text": "text"
+      },
+      "isSenderSilenced": true
     }
   },
   {
